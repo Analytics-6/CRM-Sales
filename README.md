@@ -57,7 +57,7 @@ Given Task - To perform analysis of last year's sales, calculating key statistic
 
 - Calculated revenue by office location to identify the lowest performer
 
-  ### About The Project
+  ### Data Source
 
   - Maven Analytics
 
