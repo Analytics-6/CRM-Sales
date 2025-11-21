@@ -59,6 +59,6 @@ Given Task - To perform analysis of last year's sales, calculating key statistic
 
   ### Data Source
 
-  - Maven Analytics
+- Maven Analytics
 
 
